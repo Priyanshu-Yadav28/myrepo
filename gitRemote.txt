@@ -1,0 +1,8 @@
+1. Github Account 
+2. Empty Repo
+3. Local System
+	git config --global user.name "PriyanshuYadav"
+	git confit --global user.email."priyanshuyadav28027@gmail.com
+4. git push -u origin master
+	4.1 username? -> PriyanshuYadav
+	4.2 password -> token from github
